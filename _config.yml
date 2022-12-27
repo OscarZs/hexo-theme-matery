@@ -144,8 +144,8 @@ recommend:
 
 # Configure website favicon and LOGO
 # 配置网站favicon和网站LOGO
-favicon: /favicon.png
-logo: /medias/logo.png
+favicon: /medias/favicon2.png
+logo: /medias/logo2.png
 
 # The configuration of the second button in the home banner,
 # including the display name of the button, the font awesome icon, and the hyperlink to the button.
@@ -164,7 +164,7 @@ socialLink:
   email: zhongs21@mails.tsinghua.edu.cn
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
-  qq: 1181062873
+  qq: # 1181062873
   weibo: # https://weibo.com/xxx
   zhihu: https://www.zhihu.com/people/zschong-ya
   rss: false # true、false
