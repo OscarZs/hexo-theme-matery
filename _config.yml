@@ -190,7 +190,7 @@ code:
 reward:
   enable: true
   title: 富哥富姐V我50（x
-  wechat: /medias/reward/wechat.jpg
+  wechat: /medias/reward/WeChat.jpg
   alipay: /medias/reward/alipay.jpg
 
 # Whether to activate the copyright information of the blog and author when copying the post content.
