@@ -71,10 +71,10 @@ cover:
 # index page dream text,
 # 配置首页显示"梦想"的语句.
 dream:
-  enable: true
+  enable: false
   showTitle: true
-  title: 我的梦想
-  text: 不是每个人都应该像我这样去建造一座水晶大教堂，但是每个人都应该拥有自己的梦想，设计自己的梦想，追求自己的梦想，实现自己的梦想。梦想是生命的灵魂，是心灵的灯塔，是引导人走向成功的信仰。有了崇高的梦想，只要矢志不渝地追求，梦想就会成为现实，奋斗就会变成壮举，生命就会创造奇迹。——罗伯·舒乐
+  title: 
+  text: 
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -408,7 +408,7 @@ changyan:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://github.com/OscarZs/hexo-theme-matery
   title: Fork Me
 
 # The configuration of the Twikoo comment module is not activated by default.
@@ -626,12 +626,14 @@ subtitle:
   enable: true
   loop: true # 是否循环
   showCursor: true # 是否显示光标
-  startDelay: 300 # 开始延迟
+  startDelay: 600 # 开始延迟
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 从来没有真正的绝境, 只有心灵的迷途
-    - Never really desperate, only the lost of the soul
+    - Spell at all costs， to rush you in the future.
+    - If you shed tears when you miss the sun, you also miss the stars.
+    - Let life be beautiful like summer flowers and death like autumn leaves.
+    - A year from now you will wish you had started today.
 
 # 手机二级菜单.
 navMenu:
